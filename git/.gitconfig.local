@@ -1,10 +1,12 @@
 # vim: set ft=gitconfig:
 # .gitconfig.local
 #
-# Maintained by Claud D. Park <posquit0.bj@gmail.com>
+# Created by Claud D. Park <posquit0.bj@gmail.com>
 # http://www.posquit0.com/
+#
+# Maintained by Krzysztof Romanowski <krzysztof.romanowski94@gmail.com>
 
 
 [user]
-	name = Posquit0.BJ
-  email = posquit0.bj@gmail.com
+	name = Krzysztof Romanowski
+  email = krzysztof.romanowski94@gmail.com
