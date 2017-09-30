@@ -12,6 +12,10 @@
     stderr: true
 
 - link:
+    ~/.gitconfig:
+      force: true
+      path: git/.gitconfig
+    ~/.gitconfig.local: git/.gitconfig.local
     ~/.tmux:
       force: true
       path: tmux
@@ -21,6 +25,9 @@
     ~/.vim:
       force: true
       path: vim/.vim/
+    ~/.vimrc:
+      force: true
+      path: vim/.vimrc
 
 - shell:
   - tmux start-server
@@ -35,3 +42,4 @@
     stdin: true
     stdout: true
     stderr: true
+
