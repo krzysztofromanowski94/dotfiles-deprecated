@@ -1,6 +1,0 @@
-# .gemrc
-#
-# Maintained by Claud D. Park <posquit0.bj@gmail.com>
-# http://www.posquit0.com/
-
-gem: --no-ri --no-rdoc
