@@ -8,7 +8,7 @@
 syntax on
 
 " Line numbers on
-set number
+" set number
 " Disable relative number for line(Constantly computing the relative nubmers is expensive)
 set norelativenumber
 " Show ruler
@@ -23,7 +23,7 @@ set showmatch
 set matchtime=5
 " Show the current mode
 set showmode
-" Highlight current line 
+" Highlight current line
 set cursorline
 " Show cursorline for active window only
 augroup highlight_active_window
@@ -60,7 +60,7 @@ endif
   " be sensitive when there's a capital letter
   set smartcase
   " Highlight dynamically as pattern is typed
-  set incsearch 
+  set incsearch
 """ }}}
 
 """ Theme {{{

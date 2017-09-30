@@ -37,11 +37,6 @@ call plug#begin('~/.vim/plugged')
     nnoremap <Leader>gci :Gcommit --verbose<CR>
   "" }}}
 
-  "" Plugin: Vim Signify {{{
-    " Indicate added, modified and removed lines based on data of VCS
-    Plug 'mhinz/vim-signify'
-  "" }}}
-
   "" Plugin: Sudo-Vim {{{
     " Sudo will ask for your password if need be
     " Usage: :e sudo:/etc/passwd
