@@ -1,5 +1,5 @@
 [submodule "tmux"]
-	path = tmux-conf
+	path = tmux
 	url = https://github.com/krzysztofromanowski94/tmux-conf.git
 [submodule "tools/dotbot"]
 	path = tools/dotbot
