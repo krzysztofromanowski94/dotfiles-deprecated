@@ -1,3 +1,6 @@
 [submodule "tmux"]
-	path = tmux
-	url = https://github.com/posquit0/tmux-conf
+	path = tmux-conf
+	url = https://github.com/krzysztofromanowski94/tmux-conf.git
+[submodule "tools/dotbot"]
+	path = tools/dotbot
+	url = https://github.com/anishathalye/dotbot.git
