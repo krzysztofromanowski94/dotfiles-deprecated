@@ -13,10 +13,6 @@ set esckeys
 set backspace=indent,eol,start
 " Time to wait after ESC (default causes an annoying delay)
 set timeoutlen=250
-" Enable mouse in all modes
-set mouse=a
-" Hide the mouse cursor while typing
-set mousehide
 
 " Handy command-line mode
 nnoremap ; :
