@@ -91,7 +91,7 @@ set modelines=4
 
 """ Encoding {{{
   set encoding=utf-8
-  set fileencodings=utf-8,euc-kr
+  set fileencodings=utf-8
 """ }}}
 
 """ Formatting {{{

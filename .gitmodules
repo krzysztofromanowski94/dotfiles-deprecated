@@ -4,3 +4,9 @@
 [submodule "tools/dotbot"]
 	path = tools/dotbot
 	url = https://github.com/anishathalye/dotbot.git
+[submodule "tools/fonts/powerline-fonts"]
+	path = tools/fonts/powerline-fonts
+	url = https://github.com/powerline/fonts.git
+[submodule "tools/fonts/nerd-fonts"]
+	path = tools/fonts/tools/fonts/nerd-fonts
+	url = https://github.com/ryanoasis/nerd-fonts
