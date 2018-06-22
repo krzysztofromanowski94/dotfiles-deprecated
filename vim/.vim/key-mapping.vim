@@ -15,9 +15,9 @@ set backspace=indent,eol,start
 set timeoutlen=250
 
 " Handy command-line mode
-nnoremap ; :
+" nnoremap ; :
 " <Esc> is too annoying to type
-inoremap jkj <Esc>
+" inoremap jkj <Esc>
 " Screen sucks, redraw everything
 nnoremap <Leader>r :redraw!<CR>
 " Make Q meaningless (Q: Entering to Ex mode) 
