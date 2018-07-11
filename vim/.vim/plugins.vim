@@ -158,7 +158,7 @@ call plug#begin('~/.vim/plugged')
     " Explore filesystem with Vim
     Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
     " Map NERDTreeToggle to <F11>
-    nnoremap <silent> <F11> :NERDTreeToggle<CR>
+    nnoremap <silent> <F4> :NERDTreeToggle<CR>
     " Ignore some extensions
     let NERDTreeIgnore=['.o$','.pyc$']
     " Show hidden files
