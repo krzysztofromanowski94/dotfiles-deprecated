@@ -61,4 +61,9 @@
     stdin: true
     stdout: true
     stderr: true
+  -
+    command: ["wget  https://raw.githubusercontent.com/skelterjohn/go-pkg-complete/master/go-pkg-complete.bash.inc -O bash-completion/bash_completion.d/go", Get go completion]
+    stdin: true
+    stdout: true
+    stderr: true
 
