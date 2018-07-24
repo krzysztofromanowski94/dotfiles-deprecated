@@ -1,3 +1,6 @@
+## Deprecated
+As these dotfiles started to grow I decided to rebuild and move it to it's own repository.
+
 ## Usage
 
 ```bash
